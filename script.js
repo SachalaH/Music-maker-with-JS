@@ -36,8 +36,5 @@ window.addEventListener('load', () => {
         else{
             ball.style.animation = 'jump 1s ease';
         }
-        
-        
-        
     }
 });
